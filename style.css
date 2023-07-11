@@ -3,7 +3,7 @@ html {
 }
 
   .generated {
-    color: linear-gradient(135deg, #b16cea, #ff5e69 49%, #ff8a56 75%, #ffa84b);
+    color: #ee33ae;
   }
 
   #input-message {
@@ -17,7 +17,7 @@ html {
   
   .bpw-header-container {
     margin: 10px 10px 0px 10px;
-    background: linear-gradient(135deg, #b16cea, #ff5e69 49%, #ff8a56 75%, #ffa84b);
+    background: #B96BDD;
     border-radius: 10px;
     position: relative;
     overflow: hidden;
@@ -28,7 +28,7 @@ html {
 }
 
   .bpw-chat-bubble-content {
-    background-color: #BB6AD9;
+    background-color: #FFA24D;
     border-radius: 3px;
     border: 1px transparent;
   }
@@ -98,7 +98,7 @@ html {
 
 
   .bpw-chat-container {
-    background-color: #33eeae;
+    background-color: #ffffff;
   }
 
   .bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
@@ -112,17 +112,17 @@ html {
   }
 
   .bpw-composer {
-    background-color: #33eeae;
+    background-color: #ffffff;
     border-top: 1px solid #FFA24D;
   }
 
   .bpw-chat-container::-webkit-scrollbar {
     width: 10px;
-    background-color: #33eeae;
+    background-color: #ffffff;
   }
 
   .bpw-chat-container::-webkit-scrollbar-thumb {
-    background-color: #33eeae;
+    background-color: #ffffff;
   }
 
   .bpw-bot-avatar img,
@@ -141,14 +141,14 @@ html {
   }
 
   ::-webkit-scrollbar-thumb{
-    background-color:#33eeae;
+    background-color:#ffffff;
     border-radius:1rem;
     border: 0.5rem solid transparent;
 
   }
 
   .bpw-floating-button i svg path {
-    fill: linear-gradient(135deg, #b16cea, #ff5e69 49%, #ff8a56 75%, #ffa84b);
+    fill: #ee33ae;
 }
 
 .bpw-floating-button {
@@ -159,7 +159,7 @@ html {
 
   .bpw-chat-container {
     scrollbar-width: thin;
-    scrollbar-color: #FFA24D #33eeae;
+    scrollbar-color: #FFA24D #ffffff;
     border: none;
   }
 
@@ -174,7 +174,7 @@ html {
   }
 
   .bpw-chat-container::-moz-scrollbar-thumb {
-    background-color:#33eeae;
+    background-color:#ffffff;
     border:none;
   }
 
@@ -182,7 +182,7 @@ html {
     text-align: center;
     padding: 10px;
     color: #000000;
-    background:  #33eeae;
+    background:  #ffffff;
     font-size: 16px;
     border-top: none;
     border-bottom-right-radius: 10px;
